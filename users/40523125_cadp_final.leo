@@ -28,7 +28,7 @@
 <v t="leo.20171123133741.1"><vh>@edit readme.md</vh></v>
 </v>
 </v>
-<v t="leo.20171123133840.1"><vh>@path mech_design</vh>
+<v t="leo.20171123133840.1" a="E"><vh>@path mech_design</vh>
 <v t="leo.20171123133848.1"><vh>@path cad_designs</vh>
 <v t="leo.20171123133901.1"><vh>@edit readme.md</vh></v>
 </v>
@@ -41,7 +41,7 @@
 <v t="leo.20171123134117.1"><vh>@edit readme.md</vh></v>
 </v>
 </v>
-<v t="leo.20171123134232.1" a="E"><vh>@path elec_design</vh>
+<v t="leo.20171123134232.1"><vh>@path elec_design</vh>
 <v t="leo.20171123134244.1"><vh>@edit readme.md</vh></v>
 </v>
 </v>
@@ -167,7 +167,10 @@ v-rep 運動系統模擬
 <t tx="leo.20171123133716.1"></t>
 <t tx="leo.20171123133733.1"></t>
 <t tx="leo.20171123133840.1"></t>
-<t tx="leo.20171123133848.1"></t>
+<t tx="leo.20171123133848.1">
+2017/12/07
+
+https://cad.onshape.com/documents/3a9ce601bf890867b27124d7/w/a1f229dde7524b92f1ad209d/e/f772da02cd390c5d0ee398e7</t>
 <t tx="leo.20171123133929.1"></t>
 <t tx="leo.20171123134046.1"></t>
 <t tx="leo.20171123134103.1"></t>
