@@ -192,7 +192,7 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="ahshoe.20170317115820.1">---
 abstract: |
-    這裡是摘要內容。張博鈞很帥
+    這裡是摘要內容。張博鈞很帥.
     
     + 以 YAML 的方式插入。
     + The '+' indicator says to keep newlines at the end of text blocks.

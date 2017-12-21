@@ -17,7 +17,7 @@ date: '2017.12.21'
 
 ---
 abstract: |
-    這裡是摘要內容。張博鈞很帥
+    這裡是摘要內容。張博鈞很帥.
     
     + 以 YAML 的方式插入。
     + The '+' indicator says to keep newlines at the end of text blocks.
