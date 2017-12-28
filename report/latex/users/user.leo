@@ -194,12 +194,24 @@ vertical: body pane on the botton</t>
 abstract: |
     這裡是摘要內容。張博鈞很帥.
     
-    + 以 YAML 的方式插入。
-    + The '+' indicator says to keep newlines at the end of text blocks.
-    + 使用 Markdown 語法。
-    + 前面使用加號
+
     
-    本研究的重點在於 ...
+    本研究的重點在於 利用本學期學 
+    的東西用小組的方式做出一個鋼 
+    球運動系統，利用的工具有 
+    Solvespace、Onshape、V-rep等..
+    畫出機構及軌道最後模擬出鋼球
+    在機構和軌道中的運動狀況
+    
+    首先我們先從網路上尋找適合的
+    參考機構，經小組討論決定後利
+    用Solvespace畫出機構運動的方式
+    ，成功劃出可以讓鋼球上升的機
+    構後我們利用Onshape劃出機構
+    的實體以及每個組員的軌道，
+    最後用V-rep模擬出鋼球運動系
+    統
+    
 ---
 
 
