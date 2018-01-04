@@ -192,14 +192,23 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="ahshoe.20170317115820.1">---
 abstract: |
-    這裡是摘要內容。張博鈞很帥.
+    這裡是摘要內容。.
     
-    + 以 YAML 的方式插入。
-    + The '+' indicator says to keep newlines at the end of text blocks.
-    + 使用 Markdown 語法。
-    + 前面使用加號
+
     
-    本研究的重點在於 ...
+    本研究的重點在於如何通過繪圖軟體設計出鋼球運動機構
+    
+    
+    首先我們從網路上尋找到了適合的
+    參考機構(marble machine etagen)，通過小組討論決定後,組員利
+    用Solvespace畫出機構運動的方式機算出連桿的尺寸比例以及每一
+    個階梯小球提升的高度，成功劃出可以讓鋼球上升的機構後我們利
+    用Onshape畫出機構的實體以及每個組員的軌道，最後用V-rep模擬
+    出鋼球運動系統。
+    我們的機構叫做階梯式抬球機構
+    利用馬達作動傳動帶動連桿再透過
+    桿件之間的干涉使得我們的升降機構上下交互將小球從低處運至高
+    處
 ---
 
 
