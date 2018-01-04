@@ -192,17 +192,16 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="ahshoe.20170317115820.1">---
 abstract: |
-    這裡是摘要內容。張博鈞很帥.
+    這裡是摘要內容。.
     
 
     
-    本研究的重點在於 利用本學期學 
-    的東西用小組的方式做出一個鋼 
-    球運動系統，利用的工具有 
-    Solvespace、Onshape、V-rep等..
-    畫出機構及軌道最後模擬出鋼球
-    在機構和軌道中的運動狀況
+    本研究的重點在於如何通過繪圖軟體設計出鋼球運動機構
     
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 2b2c7856320f6fde4a7ed3ff3fe613b2a53a1ea0
     首先我們從網路上尋找到了適合的
     參考機構(marble machine etagen)，通過小組討論決定後,組員利
     用Solvespace畫出機構運動的方式機算出連桿的尺寸比例以及每一
