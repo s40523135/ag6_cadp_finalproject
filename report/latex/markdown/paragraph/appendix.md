@@ -1,12 +1,5 @@
-附錄
+
 ===
 
-附錄內容
-
-專案執行會議紀錄
----
-
-操作過程照片
----
-
-操作過程照片
+參考資料 https://www.youtube.com/watch?v=HrIfZrDe788
+參考資料 http://woodgears.ca/marbles/paul.html

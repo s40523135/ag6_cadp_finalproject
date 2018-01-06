@@ -34,16 +34,16 @@
 <v t="yen.20170429215130.1"><vh>內文</vh></v>
 </v>
 <v t="yen.20170429215252.1" a="E"><vh>@clean python_introduction.md</vh>
-<v t="yen.20170429215308.1"><vh>內文</vh></v>
+<v t="yen.20170429215308.1"><vh>Python 程式語法介紹</vh></v>
 </v>
 <v t="yen.20170429215416.1" a="E"><vh>@clean pyqt5_introduction.md</vh>
-<v t="yen.20170429215446.2"><vh>內文</vh></v>
+<v t="yen.20170429215446.2"><vh>PyQt5 語法介紹</vh></v>
 </v>
 <v t="yen.20170429215617.1" a="E"><vh>@clean calculator.md</vh>
-<v t="yen.20170429215851.1"><vh>討論與建議</vh></v>
+<v t="yen.20170429215851.1"><vh>計算機程式內容</vh></v>
 </v>
 <v t="yen.20170429215922.1" a="E"><vh>@clean discussion.md</vh>
-<v t="yen.20170429220001.1"><vh>參考</vh></v>
+<v t="leo.20180106163058.1"><vh>程式開發心得</vh></v>
 </v>
 <v t="yen.20170429220128.1" a="E"><vh>@clean results.md</vh>
 <v t="yen.20170429220137.1"><vh>期末報告結論</vh></v>
@@ -198,10 +198,7 @@ abstract: |
     
     本研究的重點在於如何通過繪圖軟體設計出鋼球運動機構
     
-<<<<<<< HEAD
-=======
     
->>>>>>> 2b2c7856320f6fde4a7ed3ff3fe613b2a53a1ea0
     首先我們從網路上尋找到了適合的
     參考機構(marble machine etagen)，通過小組討論決定後,組員利
     用Solvespace畫出機構運動的方式機算出連桿的尺寸比例以及每一
@@ -233,6 +230,8 @@ abstract: |
 參考 - 詳列所引用的參考內容
 
 附錄 - 附加值得參考的詳細內容</t>
+<t tx="leo.20180106163058.1">個人軌道和心得
+</t>
 <t tx="yen.20170429103742.1"></t>
 <t tx="yen.20170429103940.1"></t>
 <t tx="yen.20170429132400.1">每一位協同人員各在 users 目錄中建立一個 .leo 檔案
@@ -249,15 +248,12 @@ abstract: |
 <t tx="yen.20170429214838.3">前言內容。
 
 \ 
-撰寫這份報告的目的在於
-使用簡報的方式讓別人能夠了解我們這組是如何設計出機構以及如和使用本學期所學的工具成功模擬出小剛球在機構和軌道中的模擬運動
+撰寫這份報告的目的在於使用簡報的方式讓別人能夠了解我們這組是如何設計出機構的以及如何使用本學期所學的工具成功模擬出小鋼球在機構和軌道中的運動狀況
 
-在內文中會介紹我們從哪裡找尋設計機構的參考和怎麼使用繪圖軟體劃出我們所需要的機構和軌道在最後得出結論並討論出可以改善的地方
-
+在簡報中會有我們這組的製作過程，會介紹我們是從哪裡找尋設計機構的參考和設計過程中所遇到的問題以及解決辦法和最後的結論
 
 
 \ 
-
 
 
 </t>
@@ -268,40 +264,34 @@ abstract: |
 內文
 
 @others</t>
-<t tx="yen.20170429215130.1">設計機構
+<t tx="yen.20170429215130.1">內文
 ---
+一開始我們先從網路上找尋有哪些可以讓球上升的機構，我們找了很多種機構像齒輪和連桿等，最後我們看到一個很有趣的機構
 
-Windows 的內容
 
-有一張圖片：
-
-![camelnooo][]
+![01][]
 
 稱為圖 {@fig:駱駝}。
 
-各 md 檔案可以在 images 目錄下自訂與 md 檔案名稱相同的子目錄存放影像檔案
 
-[camelnooo]: ./images/camelnooo.jpg {#fig:駱駝}
+[01]: ./images/01.jpg {#fig:駱駝}
 
-啟動與關閉2
----
+這個機構是利用連桿的原理讓球一階一階的往上升
 
-各 md 檔案可以在 images 目錄下自訂與 md 檔案名稱相同的子目錄存放影像檔案
 
-啟動與關閉3
----
 
-各 md 檔案可以在 images 目錄下自訂與 md 檔案名稱相同的子目錄存放影像檔案</t>
-<t tx="yen.20170429215252.1">內文
+
+</t>
+<t tx="yen.20170429215252.1">使用工具
 ===
 
-內文
+使用工具
 
 @others</t>
 <t tx="yen.20170429215308.1">
 ---
 
-IPv4 的內容
+為了將上面找的機構模擬出來我們利用solvespace onshape v-rep等工具進行繪圖和模擬
 
 有一張圖片：
 
@@ -313,118 +303,31 @@ IPv4 的內容
 
 [Kmol]: ./images/kmol.png {#fig:駱駝}
 
-print 函式
----
-
-重複迴圈
----
-
-判斷式
----
-
-數列
----</t>
-<t tx="yen.20170429215416.1">內文
+</t>
+<t tx="yen.20170429215416.1">過程中的問題
 ===
 
-內文
+
 
 @others</t>
-<t tx="yen.20170429215446.2">PyQt5 架構
----
-
-C 的內容
-
-其中包含一個表格：
-
-Table: Python 網際框架比較 {#tbl:網際框架}
-
-| Framework | Started | Py2 | Py3 | ORM | Template Engine | Auth Moudule | Database Admin | Project Scale |
-|:---------:|:-------:|:---:|:---:|:---:|:---------------:|:------------:|:--------------:|:-------------:|
-| Pyramid | 2005 | V | V |  |  | V |  | large |
-| Django | 2006 | V | V | V | V | V | V | large |
-| Flask | 2010 | V |  |  |  |  |  | small |
-
-稱為表 {@tbl:網際框架}。
-
-Table: 價目表 {#tbl:價目表}
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-稱為表 {@tbl:價目表}。
-
-關於表格生成可以參考這裡：[http://www.tablesgenerator.com/markdown_tables]
-
-[http://www.tablesgenerator.com/markdown_tables]: http://www.tablesgenerator.com/markdown_tables
+<t tx="yen.20170429215446.2">過程中的問題
 
 </t>
-<t tx="yen.20170429215617.1">討論與建議
+<t tx="yen.20170429215617.1">解決方法
 ===
 
-討論與建議
+解決方法
 
 @others</t>
-<t tx="yen.20170429215851.1">建立對話框
----
-
-自動控制 的內容
-
-其中包含一個表格：
-
-Table: Python 網際框架比較 {#tbl:網際框架}
-
-| Framework | Started | Py2 | Py3 | ORM | Template Engine | Auth Moudule | Database Admin | Project Scale |
-|:---------:|:-------:|:---:|:---:|:---:|:---------------:|:------------:|:--------------:|:-------------:|
-| Pyramid | 2005 | V | V |  |  | V |  | large |
-| Django | 2006 | V | V | V | V | V | V | large |
-| Flask | 2010 | V |  |  |  |  |  | small |
-
-稱為表 {@tbl:網際框架}。
-
-Table: 價目表 {#tbl:價目表}
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-稱為表 {@tbl:價目表}。
-
-關於表格生成可以參考這裡：[http://www.tablesgenerator.com/markdown_tables]
-
-[http://www.tablesgenerator.com/markdown_tables]: http://www.tablesgenerator.com/markdown_tables
-
-建立按鈕
----
-
-建立程式碼
----
+<t tx="yen.20170429215851.1">
 
 </t>
-<t tx="yen.20170429215922.1">參考
+<t tx="yen.20170429215922.1">心得
 ===
 
-參考
+期末報告心得
 
 @others</t>
-<t tx="yen.20170429220001.1">Fossil SCM
----
-
-網誌心得
----
-
-Github 協同倉儲
----
-
-學員心得
----
-
-說明各學員任務與執行過程</t>
 <t tx="yen.20170429220128.1">結論
 ===
 
@@ -434,19 +337,18 @@ Github 協同倉儲
 <t tx="yen.20170429220137.1">結論與建議
 ---
 
-結論與建議內容</t>
-<t tx="yen.20170429220335.1">附錄
+結論與建議內容
+
+
+
+
+
+</t>
+<t tx="yen.20170429220335.1">
 ===
 
-附錄內容
-
 @others</t>
-<t tx="yen.20170429220335.2">專案執行會議紀錄
----
-
-操作過程照片
----
-
-操作過程照片</t>
+<t tx="yen.20170429220335.2">參考資料 https://www.youtube.com/watch?v=HrIfZrDe788
+參考資料 http://woodgears.ca/marbles/paul.html</t>
 </tnodes>
 </leo_file>
