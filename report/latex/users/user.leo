@@ -31,19 +31,19 @@
 <v t="yen.20170429214838.3"><vh>前言內容</vh></v>
 </v>
 <v t="yen.20170429215041.1" a="E"><vh>@clean portable_system.md</vh>
-<v t="yen.20170429215130.1"><vh>可攜程式系統介紹</vh></v>
+<v t="yen.20170429215130.1"><vh>內文</vh></v>
 </v>
 <v t="yen.20170429215252.1" a="E"><vh>@clean python_introduction.md</vh>
-<v t="yen.20170429215308.1"><vh>Python 程式語法介紹</vh></v>
+<v t="yen.20170429215308.1"><vh>內文</vh></v>
 </v>
 <v t="yen.20170429215416.1" a="E"><vh>@clean pyqt5_introduction.md</vh>
-<v t="yen.20170429215446.2"><vh>PyQt5 語法介紹</vh></v>
+<v t="yen.20170429215446.2"><vh>內文</vh></v>
 </v>
 <v t="yen.20170429215617.1" a="E"><vh>@clean calculator.md</vh>
-<v t="yen.20170429215851.1"><vh>計算機程式內容</vh></v>
+<v t="yen.20170429215851.1"><vh>討論與建議</vh></v>
 </v>
 <v t="yen.20170429215922.1" a="E"><vh>@clean discussion.md</vh>
-<v t="yen.20170429220001.1"><vh>程式開發心得</vh></v>
+<v t="yen.20170429220001.1"><vh>參考</vh></v>
 </v>
 <v t="yen.20170429220128.1" a="E"><vh>@clean results.md</vh>
 <v t="yen.20170429220137.1"><vh>期末報告結論</vh></v>
@@ -198,7 +198,10 @@ abstract: |
     
     本研究的重點在於如何通過繪圖軟體設計出鋼球運動機構
     
+<<<<<<< HEAD
+=======
     
+>>>>>>> 2b2c7856320f6fde4a7ed3ff3fe613b2a53a1ea0
     首先我們從網路上尋找到了適合的
     參考機構(marble machine etagen)，通過小組討論決定後,組員利
     用Solvespace畫出機構運動的方式機算出連桿的尺寸比例以及每一
@@ -246,25 +249,26 @@ abstract: |
 <t tx="yen.20170429214838.3">前言內容。
 
 \ 
+撰寫這份報告的目的在於
+使用簡報的方式讓別人能夠了解我們這組是如何設計出機構以及如和使用本學期所學的工具成功模擬出小剛球在機構和軌道中的模擬運動
 
-一個範例數學式：$$\beta=\cos^{-1}{\frac{L0^{2}+d_{AB}^{2}-R0^{2}}{2\times{L0\times{d_{AB}}}}}$$
+在內文中會介紹我們從哪裡找尋設計機構的參考和怎麼使用繪圖軟體劃出我們所需要的機構和軌道在最後得出結論並討論出可以改善的地方
+
+
 
 \ 
 
-關於數學式可以參考這裡：[http://www.hostmath.com/][]
 
-[http://www.hostmath.com/]: http://www.hostmath.com/
 
-提及了某篇刊物[@myart]在這裡。
 </t>
 <t tx="yen.20170429214845.1"></t>
-<t tx="yen.20170429215041.1">可攜程式系統介紹
+<t tx="yen.20170429215041.1">內文
 ===
 
-可攜程式系統介紹
+內文
 
 @others</t>
-<t tx="yen.20170429215130.1">啟動與關閉
+<t tx="yen.20170429215130.1">設計機構
 ---
 
 Windows 的內容
@@ -288,13 +292,13 @@ Windows 的內容
 ---
 
 各 md 檔案可以在 images 目錄下自訂與 md 檔案名稱相同的子目錄存放影像檔案</t>
-<t tx="yen.20170429215252.1">Python 程式語法
+<t tx="yen.20170429215252.1">內文
 ===
 
-Python 程式語法
+內文
 
 @others</t>
-<t tx="yen.20170429215308.1">變數命名
+<t tx="yen.20170429215308.1">
 ---
 
 IPv4 的內容
@@ -320,10 +324,10 @@ print 函式
 
 數列
 ---</t>
-<t tx="yen.20170429215416.1"> PyQt5 簡介
+<t tx="yen.20170429215416.1">內文
 ===
 
-說明 PyQt5 基本架構與程式開發流程
+內文
 
 @others</t>
 <t tx="yen.20170429215446.2">PyQt5 架構
@@ -358,10 +362,10 @@ Table: 價目表 {#tbl:價目表}
 [http://www.tablesgenerator.com/markdown_tables]: http://www.tablesgenerator.com/markdown_tables
 
 </t>
-<t tx="yen.20170429215617.1">Calculator 程式
+<t tx="yen.20170429215617.1">討論與建議
 ===
 
-Calculator 程式細部說明
+討論與建議
 
 @others</t>
 <t tx="yen.20170429215851.1">建立對話框
@@ -402,10 +406,10 @@ Table: 價目表 {#tbl:價目表}
 ---
 
 </t>
-<t tx="yen.20170429215922.1">心得
+<t tx="yen.20170429215922.1">參考
 ===
 
-期末報告心得
+參考
 
 @others</t>
 <t tx="yen.20170429220001.1">Fossil SCM

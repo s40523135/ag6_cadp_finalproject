@@ -1,7 +1,7 @@
-Calculator 程式
+討論與建議
 ===
 
-Calculator 程式細部說明
+討論與建議
 
 建立對話框
 ---
